@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ZillaSlabBold';
+  src: url('/fonts/zilla_slab_bold.ttf');
+}
+
+@font-face {
+    font-family: 'InterRegular';
+    src: url('/fonts/inter_regular.ttf')
+}
