@@ -1,4 +1,5 @@
 A simple landing page using [Kobweb](https://github.com/varabyte/kobweb)
+
 ## Getting Started
 
 First, run the development server by typing the following command in a terminal under the `site` folder:
@@ -44,3 +45,9 @@ kobweb run --env prod --notty
 Kobweb also supports exporting to a static layout which is compatible with static hosting providers, such as GitHub
 Pages, Netlify, Firebase, any presumably all the others. You can read more about that approach here:
 https://bitspittle.dev/blog/2022/staticdeploy
+
+## Demo
+
+https://github.com/gangulwar/kobweb-landing-page/assets/123754972/6f1c5195-2ef3-4314-8c1a-8b1a980acd1f
+
+[UI Design](https://www.figma.com/community/file/1127302394641561751/50-landing-page-designs)
