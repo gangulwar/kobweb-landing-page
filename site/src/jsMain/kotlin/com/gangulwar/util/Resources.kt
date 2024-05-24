@@ -28,7 +28,7 @@ object Resources {
 
     object String {
         const val ZillaSlabBold = "ZillaSlabBold"
-        const val InterRegular = "InterRegular"
+        const val InterRegular = "Inter"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
         const val RobotoSlabBold = "Roboto Slab"
